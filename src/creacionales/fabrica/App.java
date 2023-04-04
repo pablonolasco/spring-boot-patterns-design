@@ -1,4 +1,4 @@
-package creacionales.factory;
+package creacionales.fabrica;
 
 public class App {
 

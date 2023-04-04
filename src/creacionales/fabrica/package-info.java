@@ -5,4 +5,4 @@
  * @author pnolasco
  *
  */
-package creacionales.factory;
+package creacionales.fabrica;

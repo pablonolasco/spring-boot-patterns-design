@@ -1,12 +1,12 @@
-package creacionales.factory;
+package creacionales.fabrica.abstrac;
 
 import creacionales.Imprimir;
 
-public class ConexionSQLServer implements IConexion{
+public class ConexionOracle implements IConexion{
 
 	@Override
 	public void conectar() {
-		Imprimir.imprimir("sql server");
+		Imprimir.imprimir("conexion oracle");
 		
 	}
 

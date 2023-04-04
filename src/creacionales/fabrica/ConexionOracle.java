@@ -1,4 +1,4 @@
-package creacionales.factory;
+package creacionales.fabrica;
 
 import creacionales.Imprimir;
 
